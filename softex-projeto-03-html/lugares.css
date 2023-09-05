@@ -1,0 +1,53 @@
+* {
+  padding: 1%;
+
+}
+
+header {
+  display: flex;
+  background-color: rgb(244, 216, 178);
+  height: 50px;
+  align-items: center;
+  justify-content: end;
+}
+
+h1 {
+  text-align: center;
+}
+
+ul {
+  display: flex;
+  gap: 200px;
+}
+
+img{
+  width: 90%;
+}
+
+#caixa{
+  width: 90%;
+}
+main {
+  background-color: antiquewhite;
+}
+
+nav {
+  display: flex;
+  justify-items: center;
+}
+
+div{
+  text-align: center;
+  background-color: rgb(237, 196, 155) ;
+}
+section {
+  display: grid;
+  grid-template-columns: 1fr 1fr; 
+  background-color: rgb(237, 196, 155);
+  border-radius: 5px;
+}
+
+footer {
+  background-color: rgb(236, 210, 188);
+  display: flex;
+}

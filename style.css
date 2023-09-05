@@ -11,14 +11,21 @@ header {
   justify-content: end;
 }
 
+#h1pagina2{
+  background-color: beige;
+}
+
 ul {
   display: flex;
   gap: 200px;
-
 }
 
 main {
   background-color: antiquewhite;
+}
+
+h1{
+  display: flex;
 }
 
 nav {

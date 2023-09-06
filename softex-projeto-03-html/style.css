@@ -1,6 +1,5 @@
 * {
   padding: 1%;
-
 }
 
 header {
@@ -17,7 +16,7 @@ ul {
 
 }
 
-main {
+#main {
   background-color: antiquewhite;
 }
 
@@ -51,12 +50,12 @@ nav {
   border-radius: 10px;
 }
 
-.artigos {
+#artigos {
   background-color: bisque;
   border-radius: 5px;
 }
 
-footer {
+#footer {
   background-color: rgb(236, 210, 188);
   display: flex;
 }
